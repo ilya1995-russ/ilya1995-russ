@@ -1,5 +1,16 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+
+
+### <div align="center"> Hi my name is Ilya, I am junior developer 👨‍💻</div>
+
+- 🔭 I’m currently working on 
+
+- 🌱 I’m currently learning ...
+- 
 <!--
 **ilya1995-russ/ilya1995-russ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
